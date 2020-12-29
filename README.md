@@ -17,7 +17,6 @@
   <i>Reach me at:</i>
 
   <p align="center">
-    <a href="https://twitter.com/almothafar" alt="Twitter"><img src="https://user-images.githubusercontent.com/13887564/103285971-1f38f980-49e8-11eb-98a4-89ba61d8c483.png"/></a>
     <a href="https://www.linkedin.com/in/almothafar/" alt="Linkedin"><img src="https://user-images.githubusercontent.com/13887564/103286068-527b8880-49e8-11eb-9249-9877626421df.png"></a>
     <a href="https://almothafar.com" alt="My website" target="_blank"><img src="https://user-images.githubusercontent.com/13887564/103286179-7b9c1900-49e8-11eb-90b8-71f73f48fb2d.png"></a>
   </p>
