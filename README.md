@@ -7,8 +7,8 @@
 - 🤔 I’m looking for help with everything  😅
 - 💬 Ask me about anything but answer is not guranteed 😁.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/almothafar/">LinkedIn</a>
-- ⚡ Fun fact: I love games when I'm busy, not motivated to play any when I'm free or bored 😂
-- 💻 My favorite IDE is InteilliJ IDEA Ultimate and I hate Dark mode 🌒 in general
+- ⚡ Fun fact: I love games when I'm busy, not motivated to play any game when I'm free or bored 😂
+- 💻 My favorite IDE is IntelliJ IDEA Ultimate and I hate Dark mode 🌒 in general
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=almothafar&show_icons=true)
 
