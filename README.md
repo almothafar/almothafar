@@ -10,7 +10,11 @@
 - ⚡ Fun fact: I love games when I'm busy, not motivated to play any game when I'm free or bored 😂
 - 💻 My favorite IDE is IntelliJ IDEA Ultimate and I hate Dark mode 🌒 in general
 
-![github stats](https://github-readme-stats.vercel.app/api?username=almothafar&show_icons=true)
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=almothafar&show_icons=true&include_all_commits=true&count_private=true">
+  <br/><br/>
+  <img align="center" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=almothafar&width=495" width=495>
+</p>
 
 <hr>
 <p align="center">
