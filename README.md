@@ -18,7 +18,7 @@
 
 <hr>
 <p align="center">
-  <i>Reach me at:</i>
+  <i>Reach out at:</i>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/almothafar/" alt="Linkedin"><img src="https://user-images.githubusercontent.com/13887564/103286068-527b8880-49e8-11eb-9249-9877626421df.png"></a>
@@ -28,6 +28,10 @@
   <p align="center">
     <i>This profile honored by</i>
       <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=almothafar.visitor-badge">
+  </p>
+  <p align="center">
+    <sub>If you think I helped you somehow, or you just feeling generous, I like coffee</sub> ☕
+    <br><a href="https://paypal.me/almothafar/"><img src="grey.svg" height="25"></a>
   </p>
 </p>
 
