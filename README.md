@@ -30,7 +30,7 @@
       <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=almothafar.visitor-badge">
   </p>
   <p align="center">
-    <sub>If you think I helped you somehow, or you just feeling generous, I like coffee</sub> ☕
+    <sub><sup>If you think I helped you somehow, or you just feeling generous, I like coffee</sup></sub> ☕
     <br><a href="https://paypal.me/almothafar/"><img src="grey.svg" height="25"></a>
   </p>
 </p>
