@@ -31,7 +31,7 @@
   </p>
   <p align="center">
     <sub><sup>If you think I helped you somehow, or you just feeling generous, I like coffee</sup></sub> ☕
-    <br><a href="https://paypal.me/almothafar/"><img src="grey.svg" height="25"></a>
+    <br><a href="https://paypal.me/almothafar/"><img src="grey.svg" height="15"></a>
   </p>
 </p>
 
