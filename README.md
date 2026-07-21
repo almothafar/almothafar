@@ -14,9 +14,9 @@
 - 🎮 Fun fact: I love games when I'm buried in work, and lose all interest the second I'm actually free 😂
 - 📫 Reach me down below ⬇️
 
-**Backend:** Java · Spring Boot · Play Framework · Ebean · Rust · Node.js · Python
-**Frontend:** Angular · TypeScript · React
-**Full-Stack Rust:** Dioxus
+**Backend:** Java · Spring Boot · Play Framework · Ebean · Rust · Node.js · Python\
+**Frontend:** Angular · TypeScript · React\
+**Full-Stack Rust:** Dioxus\
 **Data & Ops:** PostgreSQL · MySQL · Docker · AWS
 
 <p align="center">
