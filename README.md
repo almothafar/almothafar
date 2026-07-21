@@ -1,18 +1,26 @@
 ### Hi there 👋
 
-#### I'm a Sr. Full-Stack Java Developer In Jordan.
+#### I'm Al-Mothafar — Senior Software Engineer / Lead (Java Full-Stack), based in Jordan 🇯🇴
 
-- 🔭 I’m currently working on web and mobile applications using Java (With [Play Framework](https://www.playframework.com/), [Ebean](https://ebean.io/)) and Angular (And Ionic).
-- 👯 I’m looking to collaborate on Java and Angular open source projects and plugins.
-- 🤔 I’m looking for help with everything  😅
-- 💬 Ask me about anything but answer is not guranteed 😁.
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/almothafar/">LinkedIn</a>
-- ⚡ Fun fact: I love games when I'm busy, not motivated to play any game when I'm free or bored 😂
-- 💻 My favorite IDE is IntelliJ IDEA Ultimate and I hate Dark mode 🌒 in general
+16+ years of shipping web (and the occasional mobile) apps, mostly on the JVM — currently sneaking Rust into production when nobody's looking.
 
+- 🔭 Currently at **Majid Al-Futtaim**, owning the BFF layer for e-commerce apps — **Spring Boot** by day, **Dioxus / Rust** by… also day.
+- 🌱 Learning Rust properly, instead of just admiring it from a safe distance.
+- 💚 Proud sponsor of **[Ebean ORM](https://ebean.io/)** — and yes, I'm on the sponsors list, and yes, I'm a little too proud of it 😅
+- 🌍 For fun & the community, I maintain and contribute to a bunch of open-source projects — Angular libs, Docker images, mobile apps, and more — across my account and a few organizations. Have a poke around my repos 👀
+- 🤖 I pair-program with agents daily — **GitHub Copilot** at work, **Claude Code** for personal projects, and **Gemini** for blog drafts & image generation.
+- 💬 Ask me about Java, Spring, Angular, or why your build is slow — answers not guaranteed 😁
+- 🧠 Favorite IDE: IntelliJ IDEA Ultimate. Favorite theme: **Light**. Yes, I hate Dark mode 🌒 and I will not be taking questions.
+- 🎮 Fun fact: I love games when I'm buried in work, and lose all interest the second I'm actually free 😂
+- 📫 Reach me down below ⬇️
+
+**Backend:** Java · Spring Boot · Play Framework · Ebean · Rust · Node.js · Python
+**Frontend:** Angular · TypeScript · React
+**Full-Stack Rust:** Dioxus
+**Data & Ops:** PostgreSQL · MySQL · Docker · AWS
 
 <p align="center">
-  <img align="center" src="https://skillicons.dev/icons?i=java,nodejs,git,github,angular,aws,bash,html,js,css,docker,firebase,mysql,postgres,idea&perline=8&theme=light">
+  <img align="center" src="https://skillicons.dev/icons?i=java,spring,rust,angular,ts,js,nodejs,python,html,css,bash,docker,aws,firebase,mysql,postgres,git,github,idea&perline=8&theme=light">
 </p>
 
 <hr>
@@ -22,31 +30,20 @@
 </p>
 
 <hr>
+
 <p align="center">
-  <i>Reach out at:</i>
-
-  <p align="center">
-    <a href="https://www.linkedin.com/in/almothafar/" alt="Linkedin"><img src="https://user-images.githubusercontent.com/13887564/103286068-527b8880-49e8-11eb-9249-9877626421df.png"></a>
-    <a href="https://almothafar.com" alt="My website" target="_blank"><img src="https://user-images.githubusercontent.com/13887564/103286179-7b9c1900-49e8-11eb-90b8-71f73f48fb2d.png"></a>
-  </p>
-
-  <p align="center">
-    If you think I helped you somehow, or you are just feeling generous, I like coffee ☕
-    <br><a href="https://paypal.me/almothafar/"><img src="grey.svg" height="30"></a>
-  </p>
+  <i>Reach out / find me at:</i>
 </p>
 
-<!--
-**almothafar/almothafar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/almothafar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://almothafar.com"><img src="https://img.shields.io/badge/Website-424242?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"></a>
+  <a href="https://stk.so/almothafar"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"></a>
+  <a href="https://steamcommunity.com/id/almothafar"><img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"></a>
+  <a href="https://facebook.com/almothafar"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  If you think I helped you somehow, or you're just feeling generous, I like coffee ☕
+  <br><a href="https://paypal.me/almothafar/"><img src="grey.svg" height="30"></a>
+</p>
