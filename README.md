@@ -1,18 +1,20 @@
 ### Hi there 👋
 
-#### I'm a Sr. Full-Stack Java Developer In Jordan.
+#### I'm Al-Mothafar — a Senior Full-Stack Engineer from Amman, Jordan 🇯🇴
 
-- 🔭 I’m currently working on web and mobile applications using Java (With [Play Framework](https://www.playframework.com/), [Ebean](https://ebean.io/)) and Angular (And Ionic).
-- 👯 I’m looking to collaborate on Java and Angular open source projects and plugins.
-- 🤔 I’m looking for help with everything  😅
-- 💬 Ask me about anything but answer is not guranteed 😁.
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/almothafar/">LinkedIn</a>
-- ⚡ Fun fact: I love games when I'm busy, not motivated to play any game when I'm free or bored 😂
-- 💻 My favorite IDE is IntelliJ IDEA Ultimate and I hate Dark mode 🌒 in general
+16+ years of shipping web & mobile apps, mostly in the Java universe — and currently teaching an old Java dev some new Rust tricks 🦀
 
+- 🔭 Currently at **Majid Al-Futtaim**, building the Backend-for-Frontend (BFF) layer for e-commerce with **Spring Boot** — and writing **Rust + [Dioxus](https://dioxuslabs.com/)** on the side (same company, different kind of fun).
+- 🌱 Learning to stop fighting the borrow checker and start listening to it.
+- 👯 Happy to collaborate on Java, Angular, and (increasingly) Rust open-source projects.
+- 💬 Ask me about anything — answer not guaranteed 😁
+- 🧬 Curious well beyond code too: Biology & Cosmology are my favorite rabbit holes.
+- ⚡ Fun fact: I only crave gaming when I'm buried in work. Hand me a free weekend and suddenly no game looks appealing 😂
+- 💻 IntelliJ IDEA Ultimate for life — and yes, I genuinely dislike Dark Mode 🌒 (I said what I said)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/almothafar/)
 
 <p align="center">
-  <img align="center" src="https://skillicons.dev/icons?i=java,nodejs,git,github,angular,aws,bash,html,js,css,docker,firebase,mysql,postgres,idea&perline=8&theme=light">
+  <img align="center" src="https://skillicons.dev/icons?i=java,spring,rust,angular,ts,js,nodejs,python,dotnet,postgres,mysql,firebase,docker,aws,git,github,bash,html,css,idea&perline=10&theme=light">
 </p>
 
 <hr>
@@ -22,31 +24,21 @@
 </p>
 
 <hr>
+
 <p align="center">
-  <i>Reach out at:</i>
-
-  <p align="center">
-    <a href="https://www.linkedin.com/in/almothafar/" alt="Linkedin"><img src="https://user-images.githubusercontent.com/13887564/103286068-527b8880-49e8-11eb-9249-9877626421df.png"></a>
-    <a href="https://almothafar.com" alt="My website" target="_blank"><img src="https://user-images.githubusercontent.com/13887564/103286179-7b9c1900-49e8-11eb-90b8-71f73f48fb2d.png"></a>
-  </p>
-
-  <p align="center">
-    If you think I helped you somehow, or you are just feeling generous, I like coffee ☕
-    <br><a href="https://paypal.me/almothafar/"><img src="grey.svg" height="30"></a>
-  </p>
+  <i>Find me around the web:</i>
 </p>
 
-<!--
-**almothafar/almothafar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/almothafar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://almothafar.com"><img src="https://img.shields.io/badge/almothafar.com-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://stk.so/almothafar"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"></a>
+  <a href="https://steamcommunity.com/id/almothafar"><img src="https://img.shields.io/badge/Steam-1B2838?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"></a>
+</p>
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  If I helped you somehow, or you're just feeling generous, I like coffee ☕
+  <br><a href="https://paypal.me/almothafar/"><img src="grey.svg" height="30"></a>
+</p>
